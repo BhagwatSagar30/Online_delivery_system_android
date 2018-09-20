@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MapDeliveryDetails</string>
+    <string name="delivery_list_title">Delivery List</string>
+    <string name="connection_error">Connection error</string>
+    <string name="check_internet">Please check your internet connection.</string>
+    <string name="ok">OK</string>
+    <string name="delivery_details">Delivery Details</string>
+    <string name="app_exit_double_click_message">Press once again to exit</string>
+    <string name="no_delivery_data_available">No data available to display..</string>
+    <string name="please_wait">Please wait…</string>
+    <string name="txt_unable_to_connect">Unable to connect</string>
+    <string name="request_could_not_be_completed">Something went wrong, please try again later.</string>
+</resources>
